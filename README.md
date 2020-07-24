@@ -23,5 +23,3 @@
 <a href="https://instagram.com/https://www.instagram.com/developer.pe/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/developer.pe/" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucozf2u3btng85gsfjhviinq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucozf2u3btng85gsfjhviinq" height="20" width="20" /></a>
 </p>
-
-[radical]: https://github-readme-stats.vercel.app/api?username=developerpe&theme=radical&hide=["contribs","prs"]&cache_seconds=86400
