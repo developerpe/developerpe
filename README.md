@@ -6,7 +6,7 @@
 
 - 🔭 Trabajo en [Developer.pe](https://www.youtube.com/channel/UCOzf2U3BTng85gsFJHvIInQ)
 
-- 👨‍💻 Mi CV [https://www.linkedin.com/in/oliver-ton-sandoval-ar%C3%A9valo-585a60151/](https://www.linkedin.com/in/oliver-ton-sandoval-ar%C3%A9valo-585a60151/)
+- 👨‍💻 Mi CV [https://www.linkedin.com/in/oliver-ton-sandoval-ar%C3%A9valo-585a60151/](Oliver Sandoval CV)
 
 - 📝 Escribo posts en [www.developerpe.com](www.developerpe.com)
 
