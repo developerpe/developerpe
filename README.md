@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Oliver Sandoval</h1>
-<h3 align="center">Soy Desarrollador Web Backend y creador de Developer.pe</h3>
+<h3 align="center">Desarrollador Web Backend y fundador de Developer.pe</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerpe" alt="developerpe" /> </p>
 
 ![Soy Desarrollador Web Backend y creador de Developer.pe](https://i.imgur.com/EUPC5x3.png)
