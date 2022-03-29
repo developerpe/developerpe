@@ -10,7 +10,7 @@
 
 - 📝 Escribo posts en [www.developerpe.com](www.developerpe.com)
 
-- 💬 Pregúntame sobre **Python,Django,Django Rest Framework**
+- 💬 Pregúntame sobre **Python, Django, Django Rest Framework**
 
 - 📫 Contáctame en **developerpeperu@gmail.com**
 
