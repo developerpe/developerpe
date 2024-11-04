@@ -1,8 +1,7 @@
 <h1 align="center">Hola 👋, soy Oliver Sandoval</h1>
 <h3 align="center">Desarrollador Web Backend y fundador de Developer.pe</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerpe" alt="developerpe" /> </p>
 
-![Soy Desarrollador Web Backend y creador de Developer.pe](https://i.imgur.com/EUPC5x3.png)
+![Soy Desarrollador Web Backend y creador de Developer.pe](https://i.ibb.co/9cD93FR/BANNER-X.png)
 
 - 🔭 Trabajo en [Developer.pe](https://www.youtube.com/channel/UCOzf2U3BTng85gsFJHvIInQ) y [Muchticket](https://www.muchticket.com/MT/index_ES.html)
 
