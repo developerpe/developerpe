@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mi CV [Oliver Sandoval](https://www.linkedin.com/in/oliver-sandoval-developer/)
 
-- 📝 Escribo posts en [www.developerpe.com](www.developerpe.com)
+- 📝 Escribo posts en [developer.com.pe](developer.com.pe)
 
 - 💬 Pregúntame sobre **Python, Django, Django Rest Framework**
 
